@@ -42,7 +42,7 @@ body {
                 display: inline-block;
                 font-size: 100px;
                 color: burlywood;
-                margin-top: 100px;
+                margin-top: auto
 
 
             }
@@ -50,11 +50,12 @@ body {
                 display: inline-block;
                 font-size: 30px;
                 color: burlywood;
+                margin-top: auto;
 
                 }
         main > img {
             display: inline-block;
             width: 50%;
             float: right;
-            margin-top: 120px;
+            margin-top: auto;
             }
