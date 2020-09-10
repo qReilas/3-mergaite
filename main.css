@@ -36,21 +36,20 @@ body {
             width: 40%;
             float: left;
             margin-right: 10%;
-            font-family: monospace;
         }
             h1 {
                 display: inline-block;
                 font-size: 100px;
                 color: burlywood;
-                margin-top: auto
-
-
+                font-family: monospace;
+                margin: 0px;
             }
             p {
                 display: inline-block;
                 font-size: 30px;
                 color: burlywood;
                 margin-top: auto;
+                font-family: monospace;
 
                 }
         main > img {
